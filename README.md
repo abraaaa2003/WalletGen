@@ -30,7 +30,7 @@ The speed of searching for wallets depends on your hardware, primarily your vide
 ## My Find
 I also managed to find 2 Bitcoin wallets with balance. 
 
-the first was with 0.000032 bitcoin and the second was with 0.528 bitcoin (3800$ at the time of finding). 
+the first was with 0.000032 bitcoin and the second was with 0.0528 bitcoin (4500$ at the time of finding). 
 
 link to the wallet: https://mempool.space/ru/address/bc1qk3m62hx2hh5mhvc0tj45f9xflzcnu0sur3rvay.
 
