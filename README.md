@@ -1,5 +1,4 @@
 # WalletGen
-# WalletGen
 
 WalletGen is a program for generating crypto wallets such as Bitcoin and EVM (ETH, BNB, MATIC, e.t.c), 
 as well as searching for forgotten/lost wallets with an existing balance. 
